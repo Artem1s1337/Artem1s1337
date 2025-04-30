@@ -1,4 +1,4 @@
-![5228714077327585744](https://github.com/user-attachments/assets/ca1443b9-dce2-4929-9a26-5e3b80e6a3cf)
+![ChatGPT Image 30 апр  2025 г , 14_44_10](https://github.com/user-attachments/assets/97d4415c-4e8b-4ad9-8b94-c8c91f546fa3)
 
 # Hi there 👋
 
