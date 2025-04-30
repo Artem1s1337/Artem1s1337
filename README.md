@@ -13,3 +13,4 @@ I'm first year rookie in DA/DS/ML pursuing Master's in Information Science and C
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artem1s1337&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artem1s1337&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Artem1s1337&theme=synthwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
