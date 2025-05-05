@@ -7,7 +7,7 @@ I'm first year rookie in DA/DS/ML pursuing Master's in Information Science and C
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&quote=Practice.+Makes.+Perfect.&author=Cristiano+Ronaldo)](https://github.com/piyushsuthar/github-readme-quotes)
 
 - I'm currently learning math and Python for DA
-- I'm interested in personal finances, sport analytics, political studies and Kaggle competitons for projects
+- I'm interested in personal finances, sport analytics, political science and Kaggle competitons for projects
 - Random fact: I speak three languages - :ru: (Native), :us: (B2), :cn: (A2)
 
 # Technology stack
