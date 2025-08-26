@@ -1,22 +1,95 @@
-![photo_2025-04-30_20-29-45](https://github.com/user-attachments/assets/6a940872-1be6-4002-b90f-9f6261c6385d)
+<!--
+README Template (Profile or Project)
+- Replace all placeholders like YOUR_NAME, YOUR_USERNAME, YOUR_TITLE, etc.
+- To use as a profile README, create a repo named exactly YOUR_USERNAME on GitHub and put this README.md inside.
+- Dynamic stats use public services; they may need a few minutes to render after first use.
+-->
 
-# Let me to introduce myself
+<!-- Header -->
+<div align="center">
+  
+# Hi there, I'm Artem1s 👋
+MISIS DS 2nd year student • Moscow
+<img width="1024" height="385" alt="xnt0wbtodsmo2j1cxozg" src="https://github.com/user-attachments/assets/63f07e93-bdc3-4911-8793-e0b2585ac375" />
 
-I'm first year rookie in DA/DS/ML pursuing Master's in Information Science and Computation Technology from MISIS University. I have no prior knowledge in any Computer Science field but I always wanted to know how handle with data and get insights from it. I really like to learn from practice because:
+I dream about developing computer vision solutions
+</div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&quote=Practice.+Makes.+Perfect.&author=Cristiano+Ronaldo)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- GitHub Dynamic Stats -->
+## 📊 GitHub Stats
 
-- I'm currently learning math and Python for DA
-- I'm interested in personal finances, sport analytics, political science and Kaggle competitons for projects
-- Random fact: I speak three languages - :ru: (Native), :us: (B2), :cn: (A2)
+<!-- Overall stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Artem1s1337&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Artem1s1337&show_icons=true&hide_border=true&count_private=true" />
+</picture>
 
-# Technology stack
+<!-- Streak stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Artem1s1337&hide_border=true&theme=tokyonight" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Artem1s1337&hide_border=true" />
+</picture>
 
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<!-- Top languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem1s1337&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem1s1337&layout=compact&hide_border=true&langs_count=8" />
+</picture>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Artem1s1337&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artem1s1337&showicons=true&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- About Me -->
+## 👩‍💻 About Me
 
-# How to reach me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oneartemisshow) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Mvyhem/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artyom-modin-51576a283/)
+- 🔭 I’m currently working on: basic ML projects
+- 🌱 I’m learning: mathematics and ML
+- 💡 Interests: mathematics, ML, CV
+- 🎯 Goals: build a strong foundation in ML
+- 🧰 Background: Bachelor of Political Studies
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=F76688&width=435&lines=New+projects+coming+soon...;Stay+tuned!)](https://git.io/typing-svg)
+<!-- Technology Stack -->
+## 🧰 Technology Stack
+
+<!-- Use either badges or simple lists. Pick what you prefer. -->
+
+<!-- Option A: Badges (shields.io) -->
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+<!-- Data / ML -->
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+<!-- LLMs -->
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
+[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
+
+
+<!-- How to reach me -->
+## 📫 How to reach me
+
+- Email: artem1smodin@gmail.com
+- LinkedIn: https://www.linkedin.com/in/artyom-modin-51576a283/
+- Telegram: https://t.me/oneartemisshow
+- Kaggle: https://www.kaggle.com/artemiymccormick
+
+<!-- Optional: Pinned Projects (uncomment and set your repos)
+## 📌 Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_ONE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_TWO)
+-->
+
+<!-- Footer -->
+<div align="center">
+
+---
+Practice. Makes. Perfect
+
+</div>
