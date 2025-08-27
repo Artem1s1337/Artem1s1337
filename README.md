@@ -9,10 +9,10 @@ README Template (Profile or Project)
 <div align="center">
   
 # Hi there, I'm Artem1s 👋
-MISIS DS 2nd year student • Moscow
+## MISIS DS 2nd year student • Moscow
 <img width="1024" height="385" alt="xnt0wbtodsmo2j1cxozg" src="https://github.com/user-attachments/assets/63f07e93-bdc3-4911-8793-e0b2585ac375" />
 
-I want to develop computer vision solutions
+## I want to develop computer vision solutions
 </div>
 
 <!-- GitHub Dynamic Stats -->
