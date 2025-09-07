@@ -12,7 +12,7 @@ README Template (Profile or Project)
 ## MISIS DS 2nd year student • Moscow
 <img width="1024" height="385" alt="xnt0wbtodsmo2j1cxozg" src="https://github.com/user-attachments/assets/63f07e93-bdc3-4911-8793-e0b2585ac375" />
 
-## I want to develop computer vision solutions
+## I want to develop autonomous vehicles and drones solutions
 </div>
 
 <!-- GitHub Dynamic Stats -->
@@ -41,7 +41,7 @@ README Template (Profile or Project)
 
 - 🔭 I’m currently working on: basic ML projects
 - 🌱 I’m learning: mathematics and ML
-- 💡 Interests: mathematics, ML, CV
+- 💡 Interests: mathematics, ML, CV, three domains - soccer, political science & autonomous devices
 - 🎯 Goals: build a strong foundation in ML
 - 🧰 Background: Bachelor of Political Studies
 
